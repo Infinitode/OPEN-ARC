@@ -19,4 +19,13 @@ Classify the type of weather using 10 different weather data features.
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Weather Type Classification | 91.2%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-2-WTC/project-2-wtc.ipynb) |
 
+### Project 3: PPDC
+Classify potato plant diseases based on image/vision data.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | CustomCNN             | Kaggle    | ✗        | 🌱 Potato Plant Diseases Data 🍂 | 95.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-3-PPDC/project-3-ppdc.ipynb) |
+
 *More projects coming soon*

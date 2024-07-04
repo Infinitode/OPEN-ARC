@@ -74,6 +74,18 @@ Here are some of the current projects available in OPEN-ARC:
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Weather Type Classification | 91.2%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-2-WTC/project-2-wtc.ipynb) |
 
+### Project 3: Classification
+- **Challenge:** Classify potato plant diseases based on image/vision data.
+- **Dataset:** [🌱 Potato Plant Diseases Data 🍂](https://www.kaggle.com/datasets/hafiznouman786/potato-plant-diseases-data)
+- **Kaggle Notebook:** [Link to Notebook](Project-3-PPDC/project-3-ppdc.ipynb)
+- **Instructions:** Detailed instructions on running the model are available in the project's README.
+
+#### Leaderboard (Top 5)
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | CustomCNN             | Kaggle    | ✗        | 🌱 Potato Plant Diseases Data 🍂 | 95.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-3-PPDC/project-3-ppdc.ipynb) |
+
 *More projects will be added soon!*
 
 ## Sharing Progress
