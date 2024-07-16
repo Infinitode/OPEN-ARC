@@ -50,7 +50,7 @@ To keep our community safe, please ensure your contributions adhere to our [Code
 ## Available Projects
 Here are some of the current projects available in OPEN-ARC:
 
-### Project 1: Classification
+### Project 1: Liver Cirrhosis Stage Classification
 - **Challenge:** Predict the stage of liver cirrhosis, to help medical experts quickly assess a patient's condition.
 - **Dataset:** [Liver Cirrhosis Stage Classification 🩺](https://www.kaggle.com/datasets/aadarshvelu/liver-cirrhosis-stage-classification)
 - **Kaggle Notebook:** [Link to Notebook](Project-1-LCSC/project-1-lcsc.ipynb)
@@ -62,7 +62,9 @@ Here are some of the current projects available in OPEN-ARC:
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Liver Cirrhosis Stage Classification 🩺 | 95.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-1-LCSC/project-1-lcsc.ipynb) |
 
-### Project 2: Classification
+---
+
+### Project 2: Weather Type Classification
 - **Challenge:** Classify the type of weather using 10 different weather data features.
 - **Dataset:** [Weather Type Classification](https://www.kaggle.com/datasets/nikhil7280/weather-type-classification)
 - **Kaggle Notebook:** [Link to Notebook](Project-2-WTC/project-2-wtc.ipynb)
@@ -74,7 +76,9 @@ Here are some of the current projects available in OPEN-ARC:
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Weather Type Classification | 91.2%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-2-WTC/project-2-wtc.ipynb) |
 
-### Project 3: Classification
+---
+
+### Project 3: Potato Plant Disease Classification
 - **Challenge:** Classify potato plant diseases based on image/vision data.
 - **Dataset:** [🌱 Potato Plant Diseases Data 🍂](https://www.kaggle.com/datasets/hafiznouman786/potato-plant-diseases-data)
 - **Kaggle Notebook:** [Link to Notebook](Project-3-PPDC/project-3-ppdc.ipynb)
@@ -85,6 +89,20 @@ Here are some of the current projects available in OPEN-ARC:
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | CustomCNN             | Kaggle    | ✗        | 🌱 Potato Plant Diseases Data 🍂 | 95.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-3-PPDC/project-3-ppdc.ipynb) |
+
+---
+
+### Project 4: Red Wine Quality Classification
+- **Challenge:** Classify the quality of red wine based on sensory data.
+- **Dataset:** [Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+- **Kaggle Notebook:** [Link to Notebook](Project-4-RWQC/project-4-rwqc.ipynb)
+- **Instructions:** Detailed instructions on running the model are available in the project's README.
+
+#### Leaderboard (Top 5)
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | GradientBoostingClassifier             | Kaggle    | ✗        | Red Wine Quality | 72.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-4-RWQC/project-4-rwqc.ipynb) |
 
 *More projects will be added soon!*
 
