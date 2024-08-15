@@ -155,7 +155,7 @@ You can also upload your trained models and code to GitHub and share the links i
 Users can quickly share their contributions and help others in the community learn and improve their models and research.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details about this repo's license.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for more details about this repo's license.
 
 ---
 <br>
