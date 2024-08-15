@@ -43,4 +43,15 @@ Classify the quality of red wine based on sensory data.
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N | Our Model | GradientBoostingClassifier | Kaggle | ✗ | Red Wine Quality | 72.8% | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-4-RWQC/project-4-rwqc.ipynb) |
 
+---
+
+### Project 5: TWNG
+Generate Terraria weapon names based on weapon names from the official game.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | SimpleRNN             | Kaggle    | ✔        | All Terraria Weapons DPS V_1.4.4.9 | 78.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-5-TWNG/project-5-twng.ipynb) |
+
 *More projects coming soon*

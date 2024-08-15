@@ -104,6 +104,20 @@ Here are some of the current projects available in OPEN-ARC:
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | GradientBoostingClassifier             | Kaggle    | ✗        | Red Wine Quality | 72.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-4-RWQC/project-4-rwqc.ipynb) |
 
+---
+
+### Project 5: Terraria Weapon Name Generation
+- **Challenge:** Generate Terraria weapon names based on weapon names from the official game.
+- **Dataset:** [All Terraria Weapons DPS V_1.4.4.9](https://www.kaggle.com/datasets/acr1209/all-terraria-weapons-dps-v-1449)
+- **Kaggle Notebook:** [Link to Notebook](Project-5-TWNG/project-5-twng.ipynb)
+- **Instructions:** Detailed instructions on running the model are available in the project's README.
+
+#### Leaderboard (Top 5)
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | SimpleRNN             | Kaggle    | ✔        | All Terraria Weapons DPS V_1.4.4.9 | 78.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-5-TWNG/project-5-twng.ipynb) |
+
 *More projects will be added soon!*
 
 ## Sharing Progress
