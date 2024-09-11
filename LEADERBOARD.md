@@ -54,4 +54,15 @@ Generate Terraria weapon names based on weapon names from the official game.
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | SimpleRNN             | Kaggle    | ✔        | All Terraria Weapons DPS V_1.4.4.9 | 78.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-5-TWNG/project-5-twng.ipynb) |
 
+---
+
+### Project 6: NHG
+Generate convincing news headlines based on short passages of text.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | BLEU-Score | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | DistilBART             | Kaggle    | ✗        | NEWS SUMMARY | 52.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-6-NHG/project-6-nhg.ipynb) |
+
 *More projects coming soon*

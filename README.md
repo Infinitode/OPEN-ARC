@@ -1,3 +1,5 @@
+![OPEN-ARC title image](https://github.com/Infinitode/OPEN-ARC/blob/main/open-arc.jpg?raw=true)
+
 # OPEN-ARC
 ## Open-source Platform for Engineering Neural Architectures and Research Collaboration
 
@@ -117,6 +119,20 @@ Here are some of the current projects available in OPEN-ARC:
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | SimpleRNN             | Kaggle    | ✔        | All Terraria Weapons DPS V_1.4.4.9 | 78.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-5-TWNG/project-5-twng.ipynb) |
+
+---
+
+### Project 6: News Headline Generation
+- **Challenge:** Generate convincing news headlines based on short passages of text.
+- **Dataset:** [NEWS SUMMARY](https://www.kaggle.com/datasets/sunnysai12345/news-summary)
+- **Kaggle Notebook:** [Link to Notebook](Project-6-NHG/project-6-nhg.ipynb)
+- **Instructions:** Detailed instructions on running the model are available in the project's README.
+
+#### Leaderboard (Top 5)
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | BLEU-Score | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | DistilBART             | Kaggle    | ✗        | NEWS SUMMARY | 52.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-6-NHG/project-6-nhg.ipynb) |
 
 *More projects will be added soon!*
 
