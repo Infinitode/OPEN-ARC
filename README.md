@@ -3,7 +3,7 @@
 # OPEN-ARC
 ## Open-source Platform for Engineering Neural Architectures and Research Collaboration
 
-Welcome to **OPEN-ARC**, an open-source initiative to further AI research through collaboration. This repository contains base model files and folders for various problem sets, each accompanied by a challenge and linked Kaggle notebooks to run the models. Users can link their own notebooks to the challenges, share their findings, and help improve AI models to help solve problems in various fields and further research enhancement.
+👋 Welcome to **OPEN-ARC**, an open-source initiative to further AI research through collaboration. This repository contains base model files and folders for various problem sets, each accompanied by a challenge and linked Kaggle notebooks to run the models. Users can link their notebooks to the challenges, share their findings, and help improve AI models to help solve problems in various fields and further research enhancement.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -18,12 +18,12 @@ Welcome to **OPEN-ARC**, an open-source initiative to further AI research throug
 ## Introduction
 OPEN-ARC aims to democratize AI research by providing a collaborative platform where users can:
 - Access and work on various AI problem sets.
-- Contribute their own solutions and improvements.
+- Contribute their solutions and improvements.
 - Learn from others' approaches and findings.
 - Help improve AI models for real-world applications and communities.
 
 ## Installation
-To get started with OPEN-ARC, clone the repository or start from your own notebook either locally or in Kaggle or Colab using the provided datasets.
+To start with OPEN-ARC, clone the repository or start from your notebook locally or in Kaggle or Colab using the provided datasets.
 
 ```bash
 git clone https://github.com/infinitode/open-arc.git
@@ -36,18 +36,18 @@ Each project folder contains our:
 - Instructions for running the models.
 - Linked Kaggle notebooks for each challenge.
 
-To run a model, navigate to the respective project folder and follow the instructions in the README.md file located there. You can also run the Kaggle notebook, either locally or in Kaggle/Colab (note that we will primarily use Kaggle Datasets, which means that you'd have to obtain the datasets either from Kaggle, or another source, in order to run the code locally or in Colab), and follow the steps inside.
+To run a model, you can just navigate to the project folder and follow the instructions in the README.md file located there. You can also run the Kaggle notebook, either locally or in Kaggle/Colab (note that we will primarily use Kaggle Datasets, which means that you'd have to obtain the datasets either from Kaggle, or another source, to run the code locally or in Colab), and follow the steps inside.
 
-We only provide the base models, and the basic code implementations, this is where the power of community comes in. You can either improve the base code, or write your own. Then, others can learn from your implementation, therefore furthering research, and helping communities world-wide.
+We only provide the base models, and the basic code implementations, this is where the power of community comes in. You can either improve the base code or write your own. Then, others can learn from your implementation, therefore furthering research, and helping communities worldwide.
 
 ## Contributing
 We welcome contributions from the community. To contribute to the project:
 1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
+2. Create a new branch for your feature or bug fix.
 3. Commit your changes and push them to your branch.
 4. Create a pull request detailing your changes.
 
-To keep our community safe, please ensure your contributions adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+To protect our community, please ensure your contributions adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Available Projects
 Here are some of the current projects available in OPEN-ARC:
