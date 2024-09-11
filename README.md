@@ -1,4 +1,4 @@
-![OPEN-ARC title image](https://github.com/Infinitode/OPEN-ARC/blob/main/open-arc.jpg?raw=true)
+![OPEN-ARC title image](https://github.com/Infinitode/OPEN-ARC/blob/main/open-arc.jpeg?raw=true)
 
 # OPEN-ARC
 ## Open-source Platform for Engineering Neural Architectures and Research Collaboration
