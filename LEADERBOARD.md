@@ -65,4 +65,15 @@ Generate convincing news headlines based on short passages of text.
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | DistilBART             | Kaggle    | ✗        | NEWS SUMMARY | 52.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-6-NHG/project-6-nhg.ipynb) |
 
+---
+
+### Project 7: CR
+Recommend crops based on a given set of features to optimize crop yields.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Crop Recommendation Dataset | 98.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-7-CR/project-7-cr.ipynb) |
+
 *More projects coming soon*

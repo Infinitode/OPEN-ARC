@@ -30,11 +30,17 @@ git clone https://github.com/infinitode/open-arc.git
 cd open-arc
 ```
 
+> [!TIP]
+> You can also download the available Jupyter notebooks and base models. They contain everything you need for that project, if you want to work on specific projects only.
+
 ## Usage
 Each project folder contains our:
 - Base model files.
 - Instructions for running the models.
 - Linked Kaggle notebooks for each challenge.
+
+> [!NOTE]
+> Base models are not available for all of the projects in OPEN-ARC.
 
 To run a model, you can just navigate to the project folder and follow the instructions in the README.md file located there. You can also run the Kaggle notebook, either locally or in Kaggle/Colab (note that we will primarily use Kaggle Datasets, which means that you'd have to obtain the datasets either from Kaggle, or another source, to run the code locally or in Colab), and follow the steps inside.
 
@@ -43,9 +49,12 @@ We only provide the base models, and the basic code implementations, this is whe
 ## Contributing
 We welcome contributions from the community. To contribute to the project:
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
+2. Create a new branch for your implementation.
 3. Commit your changes and push them to your branch.
 4. Create a pull request detailing your changes.
+
+> [!TIP]
+> You can also work on a project and share your results by submitting a link to your notebook. If you'd like to have your entry listed on the leaderboard, fork the repo and update `LEADERBOARD.md` in your pull request.
 
 To protect our community, please ensure your contributions adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -133,6 +142,18 @@ Here are some of the current projects available in OPEN-ARC:
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | BLEU-Score | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | DistilBART             | Kaggle    | ✗        | NEWS SUMMARY | 52.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-6-NHG/project-6-nhg.ipynb) |
+
+### Project 7: Crop Recommendation
+- **Challenge:** Recommend crops based on a given set of features to optimize crop yields.
+- **Dataset:** [Crop Recommendation Dataset](https://www.kaggle.com/datasets/varshitanalluri/crop-recommendation-dataset)
+- **Kaggle Notebook:** [Link to Notebook](Project-7-CR/project-7-cr.ipynb)
+- **Instructions:** Detailed instructions on running the model are available in the project's README.
+
+#### Leaderboard (Top 5)
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Crop Recommendation Dataset | 98.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-7-CR/project-7-cr.ipynb) |
 
 *More projects will be added soon!*
 
