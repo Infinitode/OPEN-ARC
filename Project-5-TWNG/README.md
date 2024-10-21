@@ -1,3 +1,6 @@
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Project-5-TWNG/project-5-twng.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Project-5-TWNG/project-5-twng.ipynb)
+
 # Project 5: TWNG
 
 This challenge is a bit different from our usual challenges. This challenge requires you to create a Terraria weapon name generation model, based on weapon names from the official game. It involves data pre-processing, and a bit of iterative testing to create the best model for the dataset.
@@ -17,7 +20,8 @@ We have covered the basic implementation of the model and its code in our notebo
 - Link to implementation: [Notebook](project-5-twng.ipynb)
 - This project also includes pre-trained model weights, along with the `sentencepiece` `.model.` and `.vocab` files used in our pre-processing step.
 
-*Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.*
+> [!NOTE]
+> Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.
 
 **Beginners are welcome** to play around with values and parameters for their own implementation. Have fun experimenting!
 

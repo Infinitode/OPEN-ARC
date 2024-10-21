@@ -1,3 +1,6 @@
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Project-2-WTC/project-2-wtc.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Project-2-WTC/project-2-wtc.ipynb)
+
 # Project 2: WTC
 
 This challenge involves handling outliers, and different types of data. The goal is to determine the type of weather based on several factors like: wind speed, humidity, and even location. Note that this dataset is a synthetic dataset, and will not yield accurate real-world results.
@@ -16,7 +19,8 @@ We have covered the basic implementation of the model and its code in our notebo
 
 - Link to implementation: [Notebook](project-2-wtc.ipynb)
 
-*Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.*
+> [!NOTE]
+> Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.
 
 **Beginners are welcome** to play around with values and parameters for their own implementation. Have fun experimenting!
 

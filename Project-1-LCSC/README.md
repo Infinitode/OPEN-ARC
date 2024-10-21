@@ -1,3 +1,6 @@
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Project-1-LCSC/project-1-lcsc.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Project-1-LCSC/project-1-lcsc.ipynb)
+
 # Project 1: LCSC
 
 We're tackling the medical world head-on with our first challenge. The goal is to create an experimental AI model that can assist medical experts in quickly assessing the state of patients with liver cirrhosis.
@@ -16,7 +19,8 @@ We have covered the basic implementation of the model and its code in our notebo
 
 - Link to implementation: [Notebook](project-1-lcsc.ipynb)
 
-*Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.*
+> [!NOTE]
+> Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.
 
 **Beginners are welcome** to play around with values and parameters for their own implementation. Have fun experimenting!
 

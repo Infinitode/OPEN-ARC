@@ -1,3 +1,6 @@
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Project-3-PPDC/project-3-ppdc.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Project-3-PPDC/project-3-ppdc.ipynb)
+
 # Project 3: PPDC
 
 This challenge involves handling unbalanced data, among other challenges. The goal is to determine which potato plant leaves are healthy, or which leaves have disease. This will help farmers in the agricultural industry to yield healthier harvests and quickly identify unhealthy plants.
@@ -16,7 +19,8 @@ We have covered the basic implementation of the model and its code in our notebo
 
 - Link to implementation: [Notebook](project-3-ppdc.ipynb)
 
-*Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.*
+> [!NOTE]
+> Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.
 
 **Beginners are welcome** to play around with values and parameters for their own implementation. Have fun experimenting!
 

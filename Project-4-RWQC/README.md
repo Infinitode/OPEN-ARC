@@ -1,3 +1,6 @@
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Project-4-RWQC/project-4-rwqc.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Project-4-RWQC/project-4-rwqc.ipynb)
+
 # Project 4: RWQC
 
 This challenge requires you to experiment with different preprocessing steps, such as balancing using SMOTE, removing outliers, and handling scaling of the data. You would also have to try out different model architectures and parameters for the best performance.
@@ -16,7 +19,8 @@ We have covered the basic implementation of the model and its code in our notebo
 
 - Link to implementation: [Notebook](project-4-rwqc.ipynb)
 
-*Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.*
+> [!NOTE]
+> Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.
 
 **Beginners are welcome** to play around with values and parameters for their own implementation. Have fun experimenting!
 
