@@ -76,4 +76,15 @@ Recommend crops based on a given set of features to optimize crop yields.
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Crop Recommendation Dataset | 98.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-7-CR/project-7-cr.ipynb) |
 
+---
+
+### Project 8: PSPM
+Predict a plant's stress level based on certain features.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Plant-Health-Data | 99.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-8-PSPM/project-8-pspm.ipynb) |
+
 *More projects coming soon*

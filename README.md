@@ -143,6 +143,8 @@ Here are some of the current projects available in OPEN-ARC:
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | DistilBART             | Kaggle    | ✗        | NEWS SUMMARY | 52.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-6-NHG/project-6-nhg.ipynb) |
 
+---
+
 ### Project 7: Crop Recommendation
 - **Challenge:** Recommend crops based on a given set of features to optimize crop yields.
 - **Dataset:** [Crop Recommendation Dataset](https://www.kaggle.com/datasets/varshitanalluri/crop-recommendation-dataset)
@@ -154,6 +156,20 @@ Here are some of the current projects available in OPEN-ARC:
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Crop Recommendation Dataset | 98.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-7-CR/project-7-cr.ipynb) |
+
+---
+
+### Project 8: Plant Stress Prediction Model
+- **Challenge:** Predict a plant's stress level based on certain features.
+- **Dataset:** [Plant-Health-Data](https://www.kaggle.com/datasets/ziya07/plant-health-data)
+- **Kaggle Notebook:** [Link to Notebook](Project-8-PSPM/project-8-pspm.ipynb)
+- **Instructions:** Detailed instructions on running the model are available in the project's README.
+
+#### Leaderboard (Top 5)
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Plant-Health-Data | 99.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-8-PSPM/project-8-pspm.ipynb) |
 
 *More projects will be added soon!*
 
