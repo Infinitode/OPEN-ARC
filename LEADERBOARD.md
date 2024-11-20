@@ -8,7 +8,7 @@ Predicting Liver Cirrhosis Stage of patients, helping medical experts to drastic
 
 | Rank | Contributor | Architecture Type | Platform | Base Model (✗/✔) | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Liver Cirrhosis Stage Classification 🩺 | 95.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-1-LCSC/project-1-lcsc.ipynb) |
+| N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Liver Cirrhosis Stage Classification 🩺 | 95.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-1-LCSC/project-1-lcsc.ipynb) |
 
 ---
 
@@ -19,7 +19,7 @@ Classify the type of weather using 10 different weather data features.
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Weather Type Classification | 91.2%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-2-WTC/project-2-wtc.ipynb) |
+| N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Weather Type Classification | 91.2%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-2-WTC/project-2-wtc.ipynb) |
 
 ---
 
@@ -30,7 +30,7 @@ Classify potato plant diseases based on image/vision data.
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | CustomCNN             | Kaggle    | ✗        | 🌱 Potato Plant Diseases Data 🍂 | 95.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-3-PPDC/project-3-ppdc.ipynb) |
+| N    | Our Model   | CustomCNN             | Kaggle    | ✗        | 🌱 Potato Plant Diseases Data 🍂 | 95.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-3-PPDC/project-3-ppdc.ipynb) |
 
 ---
 
@@ -41,7 +41,7 @@ Classify the quality of red wine based on sensory data.
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N | Our Model | GradientBoostingClassifier | Kaggle | ✗ | Red Wine Quality | 72.8% | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-4-RWQC/project-4-rwqc.ipynb) |
+| N | Our Model | GradientBoostingClassifier | Kaggle | ✗ | Red Wine Quality | 72.8% | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-4-RWQC/project-4-rwqc.ipynb) |
 
 ---
 
@@ -52,7 +52,7 @@ Generate Terraria weapon names based on weapon names from the official game.
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | SimpleRNN             | Kaggle    | ✔        | All Terraria Weapons DPS V_1.4.4.9 | 78.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-5-TWNG/project-5-twng.ipynb) |
+| N    | Our Model   | SimpleRNN             | Kaggle    | ✔        | All Terraria Weapons DPS V_1.4.4.9 | 78.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-5-TWNG/project-5-twng.ipynb) |
 
 ---
 
@@ -63,7 +63,7 @@ Generate convincing news headlines based on short passages of text.
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | BLEU-Score | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | DistilBART             | Kaggle    | ✗        | NEWS SUMMARY | 52.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-6-NHG/project-6-nhg.ipynb) |
+| N    | Our Model   | DistilBART             | Kaggle    | ✗        | NEWS SUMMARY | 52.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-6-NHG/project-6-nhg.ipynb) |
 
 ---
 
@@ -74,7 +74,7 @@ Recommend crops based on a given set of features to optimize crop yields.
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Crop Recommendation Dataset | 98.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-7-CR/project-7-cr.ipynb) |
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Crop Recommendation Dataset | 98.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-7-CR/project-7-cr.ipynb) |
 
 ---
 
@@ -85,6 +85,6 @@ Predict a plant's stress level based on certain features.
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Plant-Health-Data | 99.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-8-PSPM/project-8-pspm.ipynb) |
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Plant-Health-Data | 99.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-8-PSPM/project-8-pspm.ipynb) |
 
 *More projects coming soon*

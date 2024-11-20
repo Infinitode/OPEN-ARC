@@ -71,7 +71,7 @@ Here are some of the current projects available in OPEN-ARC:
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Liver Cirrhosis Stage Classification 🩺 | 95.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-1-LCSC/project-1-lcsc.ipynb) |
+| N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Liver Cirrhosis Stage Classification 🩺 | 95.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-1-LCSC/project-1-lcsc.ipynb) |
 
 ---
 
@@ -85,7 +85,7 @@ Here are some of the current projects available in OPEN-ARC:
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Weather Type Classification | 91.2%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-2-WTC/project-2-wtc.ipynb) |
+| N    | Our Model   | RandomForestClassifier             | Kaggle    | ✗        | Weather Type Classification | 91.2%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-2-WTC/project-2-wtc.ipynb) |
 
 ---
 
@@ -99,7 +99,7 @@ Here are some of the current projects available in OPEN-ARC:
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | CustomCNN             | Kaggle    | ✗        | 🌱 Potato Plant Diseases Data 🍂 | 95.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-3-PPDC/project-3-ppdc.ipynb) |
+| N    | Our Model   | CustomCNN             | Kaggle    | ✗        | 🌱 Potato Plant Diseases Data 🍂 | 95.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-3-PPDC/project-3-ppdc.ipynb) |
 
 ---
 
@@ -113,7 +113,7 @@ Here are some of the current projects available in OPEN-ARC:
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | GradientBoostingClassifier             | Kaggle    | ✗        | Red Wine Quality | 72.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-4-RWQC/project-4-rwqc.ipynb) |
+| N    | Our Model   | GradientBoostingClassifier             | Kaggle    | ✗        | Red Wine Quality | 72.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-4-RWQC/project-4-rwqc.ipynb) |
 
 ---
 
@@ -127,7 +127,7 @@ Here are some of the current projects available in OPEN-ARC:
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | SimpleRNN             | Kaggle    | ✔        | All Terraria Weapons DPS V_1.4.4.9 | 78.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-5-TWNG/project-5-twng.ipynb) |
+| N    | Our Model   | SimpleRNN             | Kaggle    | ✔        | All Terraria Weapons DPS V_1.4.4.9 | 78.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-5-TWNG/project-5-twng.ipynb) |
 
 ---
 
@@ -141,7 +141,7 @@ Here are some of the current projects available in OPEN-ARC:
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | BLEU-Score | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | DistilBART             | Kaggle    | ✗        | NEWS SUMMARY | 52.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-6-NHG/project-6-nhg.ipynb) |
+| N    | Our Model   | DistilBART             | Kaggle    | ✗        | NEWS SUMMARY | 52.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-6-NHG/project-6-nhg.ipynb) |
 
 ---
 
@@ -155,7 +155,7 @@ Here are some of the current projects available in OPEN-ARC:
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Crop Recommendation Dataset | 98.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-7-CR/project-7-cr.ipynb) |
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Crop Recommendation Dataset | 98.6%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-7-CR/project-7-cr.ipynb) |
 
 ---
 
@@ -169,7 +169,7 @@ Here are some of the current projects available in OPEN-ARC:
 
 | Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
-| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Plant-Health-Data | 99.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/Project-8-PSPM/project-8-pspm.ipynb) |
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Plant-Health-Data | 99.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-8-PSPM/project-8-pspm.ipynb) |
 
 *More projects will be added soon!*
 
