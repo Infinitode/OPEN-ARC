@@ -87,4 +87,15 @@ Predict a plant's stress level based on certain features.
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Plant-Health-Data | 99.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-8-PSPM/project-8-pspm.ipynb) |
 
+---
+
+### Project 9: TAPM
+Predict traffic accidents based on certain features.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Traffic Accident Prediction 💥🚗 | 85.2%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-9-TAPM/project-9-tapm.ipynb) |
+
 *More projects coming soon*

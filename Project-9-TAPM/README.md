@@ -1,23 +1,23 @@
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Project-1-LCSC/project-1-lcsc.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Project-1-LCSC/project-1-lcsc.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Project-8-PSPM/project-8-pspm.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Project-8-PSPM/project-8-pspm.ipynb)
 
-# Project 1: LCSC
+# Project 9: TAPM
 
-We're tackling the medical world head-on with our first challenge. The goal is to create an experimental AI model that can assist medical experts in quickly assessing the state of patients with liver cirrhosis.
+This challenge involves handling missing values and data imbalances in the dataset, as well as training a model to accurately predict outcomes based on the features in the dataset.
 
 ---
 
 ### The Challenge:
-Create and train an AI model that can accurately classify a patient's stage of liver cirrhosis given feature values.
+Predict traffic accidents based on certain features.
 
 ### The Dataset:
 Kaggle Dataset: 
-[Liver Cirrhosis Stage Classification 🩺](https://www.kaggle.com/datasets/aadarshvelu/liver-cirrhosis-stage-classification)
+[Traffic Accident Prediction 💥🚗](https://www.kaggle.com/datasets/denkuznetz/traffic-accident-prediction)
 
 ### Basic Implementation:
 We have covered the basic implementation of the model and its code in our notebook, which you can directly run on Kaggle, Colab, or in a local Jupyter environment.
 
-- Link to implementation: [Notebook](project-1-lcsc.ipynb)
+- Link to implementation: [Notebook](project-9-tapm.ipynb)
 
 > [!NOTE]
 > Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.

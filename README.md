@@ -171,6 +171,20 @@ Here are some of the current projects available in OPEN-ARC:
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Plant-Health-Data | 99.1%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-8-PSPM/project-8-pspm.ipynb) |
 
+---
+
+### Project 9: Traffic Accident Prediction Model
+- **Challenge:** Predict traffic accidents based on certain features.
+- **Dataset:** [Traffic Accident Prediction 💥🚗](https://www.kaggle.com/datasets/denkuznetz/traffic-accident-prediction)
+- **Kaggle Notebook:** [Link to Notebook](Project-9-TAPM/project-9-tapm.ipynb)
+- **Instructions:** Detailed instructions on running the model are available in the project's README.
+
+#### Leaderboard (Top 5)
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Traffic Accident Prediction 💥🚗 | 85.2%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-9-TAPM/project-9-tapm.ipynb) |
+
 *More projects will be added soon!*
 
 ## Sharing Progress
