@@ -98,4 +98,15 @@ Predict traffic accidents based on certain features.
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Traffic Accident Prediction 💥🚗 | 85.2%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-9-TAPM/project-9-tapm.ipynb) |
 
+---
+
+### Project 10: MCM
+Classify a mushroom as edible or poisonous based on certain features.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | RandomForestClassifier             | Kaggle    | ✔        | Mushroom Classification | 91.1% (CV)    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-10-MCM/project-10-mcm.ipynb) |
+
 *More projects coming soon*
