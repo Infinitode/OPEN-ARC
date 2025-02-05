@@ -185,6 +185,20 @@ Here are some of the current projects available in OPEN-ARC:
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Traffic Accident Prediction 💥🚗 | 85.2%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-9-TAPM/project-9-tapm.ipynb) |
 
+---
+
+### Project 10: Mushroom Classification Model
+- **Challenge:** Classify a mushroom as edible or poisonous based on certain features.
+- **Dataset:** [Mushroom Classifcation](https://www.kaggle.com/datasets/uciml/mushroom-classification)
+- **Kaggle Notebook:** [Link to Notebook](Project-10-MCM/project-10-mcm.ipynb)
+- **Instructions:** Detailed instructions on running the model are available in the project's README.
+
+#### Leaderboard (Top 5)
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | RandomForestClassifier             | Kaggle    | ✔        | Mushroom Classification | 91.1% (CV)    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-10-MCM/project-10-mcm.ipynb) |
+
 *More projects will be added soon!*
 
 ## Sharing Progress

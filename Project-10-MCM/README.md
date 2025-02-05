@@ -1,9 +1,9 @@
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Project-9-TAPM/project-9-tapm.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Project-9-TAPM/project-9-tapm.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Project-10-MCM/project-10-mcm.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Project-10-MCM/project-10-mcm.ipynb)
 
-# Project 9: TAPM
+# Project 10: MCM
 
-This challenge involves handling missing values and data imbalances in the dataset, as well as training a model to accurately predict outcomes based on the features in the dataset.
+This challenge involves handling a lot of categorical variables, and encoding them in a way for the model to understand. You must also create
 
 ---
 
@@ -12,12 +12,12 @@ Predict traffic accidents based on certain features.
 
 ### The Dataset:
 Kaggle Dataset: 
-[Traffic Accident Prediction 💥🚗](https://www.kaggle.com/datasets/denkuznetz/traffic-accident-prediction)
+[Mushroom Classification](https://www.kaggle.com/datasets/uciml/mushroom-classification)
 
 ### Basic Implementation:
 We have covered the basic implementation of the model and its code in our notebook, which you can directly run on Kaggle, Colab, or in a local Jupyter environment.
 
-- Link to implementation: [Notebook](project-9-tapm.ipynb)
+- Link to implementation: [Notebook](project-10-mcm.ipynb)
 
 > [!NOTE]
 > Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.
