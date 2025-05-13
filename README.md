@@ -5,6 +5,9 @@
 
 👋 Welcome to **OPEN-ARC**, an open-source initiative to further AI research through collaboration. This repository contains base model files and folders for various problem sets, each accompanied by a challenge and linked Kaggle notebooks to run the models. Users can link their notebooks to the challenges, share their findings, and help improve AI models to help solve problems in various fields and further research enhancement.
 
+> [!TIP]
+> OPEN-ARC's official web UI is now live! Visit it here: https://open-arc.netlify.app.
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
