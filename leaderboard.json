@@ -1,0 +1,13 @@
+{
+    "project1": [
+        {
+            "rank": "N",
+            "performance": "0.956",
+            "arch": "RandomForestClassifier",
+            "basemodel": "No",
+            "contributor": "Infinitode",
+            "link": "https://github.com/Infinitode/OPEN-ARC/blob/main/Project-1-LCSC/project-1-lcsc.ipynb",
+            "update": "2024-12-18"
+       },
+    ]
+}
