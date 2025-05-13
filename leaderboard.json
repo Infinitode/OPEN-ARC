@@ -7,7 +7,106 @@
             "basemodel": "No",
             "contributor": "Infinitode",
             "link": "https://github.com/Infinitode/OPEN-ARC/blob/main/Project-1-LCSC/project-1-lcsc.ipynb",
+            "update": "2024-06-17"
+        }
+    ],
+    "project2": [
+        {
+            "rank": "N",
+            "performance": "0.912",
+            "arch": "RandomForestClassifier",
+            "basemodel": "No",
+            "contributor": "Infinitode",
+            "link": "https://github.com/Infinitode/OPEN-ARC/blob/main/Project-2-WTC/project-2-wtc.ipynb",
+            "update": "2024-06-26"
+        }
+    ],
+    "project3": [
+        {
+            "rank": "N",
+            "performance": "0.951",
+            "arch": "CustomCNN",
+            "basemodel": "No",
+            "contributor": "Infinitode",
+            "link": "https://github.com/Infinitode/OPEN-ARC/blob/main/Project-3-PPDC/project-3-ppdc.ipynb",
+            "update": "2024-07-04"
+        }
+    ],
+    "project4": [
+        {
+            "rank": "N",
+            "performance": "0.728",
+            "arch": "GradientBoostingClassifier",
+            "basemodel": "No",
+            "contributor": "Infinitode",
+            "link": "https://github.com/Infinitode/OPEN-ARC/blob/main/Project-4-RWQC/project-4-rwqc.ipynb",
+            "update": "2024-07-16"
+        }
+    ],
+    "project5": [
+        {
+            "rank": "N",
+            "performance": "0.786",
+            "arch": "SimpleRNN",
+            "basemodel": "Yes",
+            "contributor": "Infinitode",
+            "link": "https://github.com/Infinitode/OPEN-ARC/blob/main/Project-5-TWNG/project-5-twng.ipynb",
+            "update": "2024-08-15"
+        }
+    ],
+    "project6": [
+        {
+            "rank": "N",
+            "performance": "0.528",
+            "arch": "DistilBART",
+            "basemodel": "No",
+            "contributor": "Infinitode",
+            "link": "https://github.com/Infinitode/OPEN-ARC/blob/main/Project-6-NHG/project-6-nhg.ipynb",
+            "update": "2024-09-11"
+        }
+    ],
+    "project7": [
+        {
+            "rank": "N",
+            "performance": "0.986",
+            "arch": "XGBClassifier",
+            "basemodel": "Yes",
+            "contributor": "Infinitode",
+            "link": "https://github.com/Infinitode/OPEN-ARC/blob/main/Project-7-CR/project-7-cr.ipynb",
+            "update": "2024-10-10"
+        }
+    ],
+    "project8": [
+        {
+            "rank": "N",
+            "performance": "0.991",
+            "arch": "XGBClassifier",
+            "basemodel": "Yes",
+            "contributor": "Infinitode",
+            "link": "https://github.com/Infinitode/OPEN-ARC/blob/main/Project-8-PSPM/project-8-pspm.ipynb",
+            "update": "2024-11-20"
+        }
+    ],
+    "project9": [
+        {
+            "rank": "N",
+            "performance": "0.852",
+            "arch": "XGBClassifier",
+            "basemodel": "Yes",
+            "contributor": "Infinitode",
+            "link": "https://github.com/Infinitode/OPEN-ARC/blob/main/Project-9-TAPM/project-9-tapm.ipynb",
             "update": "2024-12-18"
-       }
+        }
+    ],
+    "project10": [
+        {
+            "rank": "N",
+            "performance": "0.911",
+            "arch": "RandomForestClassifier",
+            "basemodel": "Yes",
+            "contributor": "Infinitode",
+            "link": "https://github.com/Infinitode/OPEN-ARC/blob/main/Project-10-MCM/project-10-mcm.ipynb",
+            "update": "2025-02-05"
+        }
     ]
 }
