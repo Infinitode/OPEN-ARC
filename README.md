@@ -43,8 +43,6 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | RandomForestClassifier | Kaggle   | ✗          | 95.6%    | [Notebook](Project-1-LCSC/project-1-lcsc.ipynb) |
 
----
-
 ### 🌦️ Project 2: Weather Type Classification
 
 [🔗 Dataset](https://www.kaggle.com/datasets/nikhil7280/weather-type-classification)
@@ -52,8 +50,6 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | Rank | Contributor | Architecture           | Platform | Base Model | Accuracy | Link                                          |
 | ---- | ----------- | ---------------------- | -------- | ---------- | -------- | --------------------------------------------- |
 | 🥇   | Our Model   | RandomForestClassifier | Kaggle   | ✗          | 91.2%    | [Notebook](Project-2-WTC/project-2-wtc.ipynb) |
-
----
 
 ### 🥔 Project 3: Potato Plant Disease Classification
 
@@ -63,8 +59,6 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | ---- | ----------- | ------------ | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | CustomCNN    | Kaggle   | ✗          | 95.1%    | [Notebook](Project-3-PPDC/project-3-ppdc.ipynb) |
 
----
-
 ### 🍷 Project 4: Red Wine Quality Classification
 
 [🔗 Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
@@ -72,8 +66,6 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | Rank | Contributor | Architecture               | Platform | Base Model | Accuracy | Link                                            |
 | ---- | ----------- | -------------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | GradientBoostingClassifier | Kaggle   | ✗          | 72.8%    | [Notebook](Project-4-RWQC/project-4-rwqc.ipynb) |
-
----
 
 ### ⚔️ Project 5: Terraria Weapon Name Generation
 
@@ -83,8 +75,6 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | ---- | ----------- | ------------ | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | SimpleRNN    | Kaggle   | ✔️         | 78.6%    | [Notebook](Project-5-TWNG/project-5-twng.ipynb) |
 
----
-
 ### 📰 Project 6: News Headline Generation
 
 [🔗 Dataset](https://www.kaggle.com/datasets/sunnysai12345/news-summary)
@@ -92,8 +82,6 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | Rank | Contributor | Architecture | Platform | Base Model | BLEU Score | Link                                          |
 | ---- | ----------- | ------------ | -------- | ---------- | ---------- | --------------------------------------------- |
 | 🥇   | Our Model   | DistilBART   | Kaggle   | ✗          | 52.8%      | [Notebook](Project-6-NHG/project-6-nhg.ipynb) |
-
----
 
 ### 🌾 Project 7: Crop Recommendation
 
@@ -103,8 +91,6 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | ---- | ----------- | ------------- | -------- | ---------- | -------- | ------------------------------------------- |
 | 🥇   | Our Model   | XGBClassifier | Kaggle   | ✔️         | 98.6%    | [Notebook](Project-7-CR/project-7-cr.ipynb) |
 
----
-
 ### 🪴 Project 8: Plant Stress Prediction
 
 [🔗 Dataset](https://www.kaggle.com/datasets/ziya07/plant-health-data)
@@ -112,8 +98,6 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | Rank | Contributor | Architecture  | Platform | Base Model | Accuracy | Link                                            |
 | ---- | ----------- | ------------- | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | XGBClassifier | Kaggle   | ✔️         | 99.1%    | [Notebook](Project-8-PSPM/project-8-pspm.ipynb) |
-
----
 
 ### 🚗 Project 9: Traffic Accident Prediction
 
@@ -123,8 +107,6 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | ---- | ----------- | ------------- | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | XGBClassifier | Kaggle   | ✔️         | 85.2%    | [Notebook](Project-9-TAPM/project-9-tapm.ipynb) |
 
----
-
 ### 🍄 Project 10: Mushroom Classification
 
 [🔗 Dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification)
@@ -132,8 +114,6 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | Rank | Contributor | Architecture           | Platform | Base Model | Accuracy | Link                                            |
 | ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | RandomForestClassifier | Kaggle   | ✔️         | 91.1%    | [Notebook](Project-10-MCM/project-10-mcm.ipynb) |
-
----
 
 ## 💬 Questions or Ideas?
 
