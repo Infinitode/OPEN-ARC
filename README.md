@@ -199,6 +199,20 @@ Here are some of the current projects available in OPEN-ARC:
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | RandomForestClassifier             | Kaggle    | ✔        | Mushroom Classification | 91.1% (CV)    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-10-MCM/project-10-mcm.ipynb) |
 
+---
+
+### Project 11: Basic Personality Prediction Model
+- **Challenge:** Classify a peron's basic personality type based on certain features.
+- **Dataset:** [Personality Dataset (introvert or Extrovert)](https://www.kaggle.com/datasets/hardikchhipa28/personality-dataset-introvert-or-extrovert)
+- **Kaggle Notebook:** [Link to Notebook](Project-11-BPPM/project-11-bppm.ipynb)
+- **Instructions:** Detailed instructions on running the model are available in the project's README.
+
+#### Leaderboard (Top 5)
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Personality Dataset (introvert or Extrovert) | 92%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-11-BPPM/project-11-bppm.ipynb) |
+
 *More projects will be added soon!*
 
 ## Sharing Progress

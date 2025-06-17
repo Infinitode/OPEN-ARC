@@ -109,4 +109,15 @@ Classify a mushroom as edible or poisonous based on certain features.
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | RandomForestClassifier             | Kaggle    | ✔        | Mushroom Classification | 91.1% (CV)    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-10-MCM/project-10-mcm.ipynb) |
 
+---
+
+### Project 11: BPPM
+Classify a peron's basic personality type based on certain features.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Personality Dataset (introvert or Extrovert) | 92%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-11-BPPM/project-11-bppm.ipynb) |
+
 *More projects coming soon*

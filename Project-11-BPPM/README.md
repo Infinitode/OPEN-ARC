@@ -1,23 +1,23 @@
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Project-10-MCM/project-10-mcm.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Project-10-MCM/project-10-mcm.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Project-11-BPPM/project-11-bppm.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Project-11-BPPM/project-11-bppm.ipynb)
 
-# Project 10: MCM
+# Project 11: BPPM
 
-This challenge involves handling a lot of categorical variables, and encoding them in a way for the model to understand. You must also create a model that can accurately understand relations between these values.
+This challenge involves creating a model that can accurately classify multiple categorical values and handle missing ones as well in order to determine a person's personality.
 
 ---
 
 ### The Challenge:
-Predict mushroom edibility based on certain features.
+Predict a person's basic personality type based on certain features.
 
 ### The Dataset:
 Kaggle Dataset: 
-[Mushroom Classification](https://www.kaggle.com/datasets/uciml/mushroom-classification)
+[Personality Dataset (introvert or Extrovert)](https://www.kaggle.com/datasets/hardikchhipa28/personality-dataset-introvert-or-extrovert)
 
 ### Basic Implementation:
 We have covered the basic implementation of the model and its code in our notebook, which you can directly run on Kaggle, Colab, or in a local Jupyter environment.
 
-- Link to implementation: [Notebook](project-10-mcm.ipynb)
+- Link to implementation: [Notebook](project-11-bppm.ipynb)
 
 > [!NOTE]
 > Note that when not running on Kaggle, you must obtain the dataset either from Kaggle imports, downloads, or other sources.
