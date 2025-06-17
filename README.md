@@ -115,6 +115,14 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | RandomForestClassifier | Kaggle   | ✔️         | 91.1%    | [Notebook](Project-10-MCM/project-10-mcm.ipynb) |
 
+### Project 11: Basic Personality Prediction Model
+
+[🔗 Dataset](https://www.kaggle.com/datasets/hardikchhipa28/personality-dataset-introvert-or-extrovert)
+
+| Rank | Contributor | Architecture           | Platform | Base Model | Accuracy | Link                                            |
+| ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
+| 🥇   | Our Model   | XGBClassifier | Kaggle   | ✔️         | 92%    | [Notebook](Project-11-BPPM/project-11-bppm.ipynb) |
+
 ## 💬 Questions or Ideas?
 
 Feel free to open an issue, start a discussion, or just make a PR. This project is made to be collaborative, welcoming, and constantly evolving.
