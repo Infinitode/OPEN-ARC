@@ -120,4 +120,15 @@ Classify a peron's basic personality type based on certain features.
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | XGBClassifier             | Kaggle    | ✔        | Personality Dataset (introvert or Extrovert) | 92%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-11-BPPM/project-11-bppm.ipynb) |
 
+---
+
+### Project 12:
+Classify mail into spam or ham.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | MultinomialNB             | Kaggle    | ✔        | Spam Mail Classifier Dataset | 98.4%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-12/notebook.ipynb) |
+
 *More projects coming soon*

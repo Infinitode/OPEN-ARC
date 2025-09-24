@@ -123,6 +123,14 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | XGBClassifier | Kaggle   | ✔️         | 92%    | [Notebook](Project-11-BPPM/project-11-bppm.ipynb) |
 
+### Project 12: Spam Mail Classification Model
+
+[🔗 Dataset](https://www.kaggle.com/datasets/hardikchhipa28/personality-dataset-introvert-or-extrovert)
+
+| Rank | Contributor | Architecture           | Platform | Base Model | Accuracy | Link                                            |
+| ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
+| 🥇   | Our Model   | MultinomialNB | Kaggle   | ✔️         | 98.4%    | [Notebook](Project-12/notebook.ipynb) |
+
 ## 💬 Questions or Ideas?
 
 Feel free to open an issue, start a discussion, or just make a PR. This project is made to be collaborative, welcoming, and constantly evolving.
@@ -130,4 +138,4 @@ Feel free to open an issue, start a discussion, or just make a PR. This project 
 
 ## 🪪 License
 
-OPEN-ARC is licensed under the [MIT License](LICENSE). Go wild, be cool, and credit contributors where credit’s due. Contributors' implementations and models may be subject to different licenses. Be sure to check them before using.
+OPEN-ARC is licensed under the [MIT License](LICENSE). Go wild, be cool, and credit contributors where credit's due. Contributors' implementations and models may be subject to different licenses. Be sure to check them before using.
