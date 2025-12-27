@@ -131,4 +131,15 @@ Classify mail into spam or ham.
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | MultinomialNB             | Kaggle    | ✔        | Spam Mail Classifier Dataset | 98.4%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-12/notebook.ipynb) |
 
+---
+
+### Project 13:
+Predict the housing prices for homes in India, based on certain features.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | MAE | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | CatBoostRegressor             | Kaggle    | ✔        | India House Rent Prediction | 3.86    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-13/notebook.ipynb) |
+
 *More projects coming soon*

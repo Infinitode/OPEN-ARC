@@ -131,6 +131,15 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | MultinomialNB | Kaggle   | ✔️         | 98.4%    | [Notebook](Project-12/notebook.ipynb) |
 
+### Project 13: India Housing Price Prediction Model
+
+[🔗 Dataset](https://www.kaggle.com/datasets/pranavshinde36/india-house-rent-prediction)
+
+| Rank | Contributor | Architecture           | Platform | Base Model | MAE | Link                                            |
+| ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
+| 🥇   | Our Model   | CatBoostRegressor | Kaggle   | ✔️         | 3.86    | [Notebook](Project-13/notebook.ipynb) |
+
+
 ## 💬 Questions or Ideas?
 
 Feel free to open an issue, start a discussion, or just make a PR. This project is made to be collaborative, welcoming, and constantly evolving.
