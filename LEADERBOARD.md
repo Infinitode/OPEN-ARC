@@ -138,7 +138,7 @@ Predict the housing prices for homes in India, based on certain features.
 
 #### Leaderboard
 
-| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | MAE | Link |
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | MAE (k) | Link |
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | CatBoostRegressor             | Kaggle    | ✔        | India House Rent Prediction | 3.86    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-13/notebook.ipynb) |
 
