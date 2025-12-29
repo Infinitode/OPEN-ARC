@@ -135,7 +135,7 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 
 [🔗 Dataset](https://www.kaggle.com/datasets/pranavshinde36/india-house-rent-prediction)
 
-| Rank | Contributor | Architecture           | Platform | Base Model | MAE | Link                                            |
+| Rank | Contributor | Architecture           | Platform | Base Model | MAE (k) | Link                                            |
 | ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | CatBoostRegressor | Kaggle   | ✔️         | 3.86    | [Notebook](Project-13/notebook.ipynb) |
 
