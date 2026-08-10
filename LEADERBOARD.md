@@ -142,4 +142,15 @@ Predict the housing prices for homes in India, based on certain features.
 |------|-------------|-------------------|----------|------------|---------|----------|------|
 | N    | Our Model   | CatBoostRegressor             | Kaggle    | ✔        | India House Rent Prediction | 3.86    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-13/notebook.ipynb) |
 
+---
+
+### Project 14:
+Classify human face images into real or fake categories.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type | Platform | Base Model | Dataset | Accuracy | Link |
+|------|-------------|-------------------|----------|------------|---------|----------|------|
+| N    | Our Model   | ResNet18             | Kaggle    | ✔        | Real vs Fake 10k | 98.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-14/notebook.ipynb) |
+
 *More projects coming soon*

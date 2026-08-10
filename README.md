@@ -139,6 +139,14 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | CatBoostRegressor | Kaggle   | ✔️         | 3.86    | [Notebook](Project-13/notebook.ipynb) |
 
+### Project 14: Real vs Fake Face Classification
+
+[🔗 Dataset](https://www.kaggle.com/datasets/sachchitkunichetty/rvf10k)
+
+| Rank | Contributor | Architecture           | Platform | Base Model | Accuracy | Link                                            |
+| ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
+| 🥇   | Our Model   | ResNet18               | Kaggle   | ✔️         | 98.8%    | [Notebook](Project-14/notebook.ipynb)           |
+
 
 ## 💬 Questions or Ideas?
 
