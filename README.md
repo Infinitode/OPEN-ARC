@@ -2,7 +2,7 @@
 
 # OPEN-ARC
 
-### *Open-source Platform for Engineering Neural Architectures and Research Collaboration*
+#### *Open-source Platform for Engineering Neural Architectures and Research Collaboration*
 
 [![Website](https://img.shields.io/badge/OpenARC-Website-green?logo=firefox)](https://open-arc.netlify.app)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)](https://github.com/Infinitode/OPEN-ARC/pulls)
