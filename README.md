@@ -148,6 +148,21 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | 🥇   | Our Model   | ResNet18               | Kaggle   | ✔️         | 98.8%    | [Notebook](Project-14/notebook.ipynb)           |
 
 
+## 🌱 Beginner Projects
+
+Hands-on data science and manipulation projects for beginners to get started on their data journey:
+
+- **[Project 1: Data Cleaning & Text Filtering](Beginner-Projects/Project-1-Data-Cleaning-Text-Filtering/notebook.ipynb)**
+  - *Topics*: Data quality checks, whitespace cleaning, text moderation, and profanity filtering using `ValX`.
+  - *Links*: [Notebook](Beginner-Projects/Project-1-Data-Cleaning-Text-Filtering/notebook.ipynb) | [Kaggle](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Beginner-Projects/Project-1-Data-Cleaning-Text-Filtering/notebook.ipynb) | [Colab](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Beginner-Projects/Project-1-Data-Cleaning-Text-Filtering/notebook.ipynb)
+- **[Project 2: Exploratory Data Analysis & Visualization](Beginner-Projects/Project-2-Exploratory-Data-Analysis/notebook.ipynb)**
+  - *Topics*: Statistical distribution summary, bar charts, histograms, and box plots using `matplotlib` and `pandas`.
+  - *Links*: [Notebook](Beginner-Projects/Project-2-Exploratory-Data-Analysis/notebook.ipynb) | [Kaggle](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Beginner-Projects/Project-2-Exploratory-Data-Analysis/notebook.ipynb) | [Colab](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Beginner-Projects/Project-2-Exploratory-Data-Analysis/notebook.ipynb)
+- **[Project 3: Data Manipulation & Aggregation](Beginner-Projects/Project-3-Data-Manipulation-Aggregation/notebook.ipynb)**
+  - *Topics*: Custom feature engineering, complex multi-condition filtering, group-by aggregations, and pivot tables.
+  - *Links*: [Notebook](Beginner-Projects/Project-3-Data-Manipulation-Aggregation/notebook.ipynb) | [Kaggle](https://www.kaggle.com/kernels/welcome?src=https://github.com/Infinitode/OPEN-ARC/blob/main/Beginner-Projects/Project-3-Data-Manipulation-Aggregation/notebook.ipynb) | [Colab](https://colab.research.google.com/github/Infinitode/OPEN-ARC/blob/main/Beginner-Projects/Project-3-Data-Manipulation-Aggregation/notebook.ipynb)
+
+
 ## 💬 Questions or Ideas?
 
 Feel free to open an issue, start a discussion, or just make a PR. This project is made to be collaborative, welcoming, and constantly evolving.
