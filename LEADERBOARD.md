@@ -168,4 +168,12 @@ Classify human face images into real or fake categories.
 | ---- | ----------- | ----------------- | -------- | ---------- | ---------------- | -------- | -------------------------------------------------------------------------------------- |
 | N    | Our Model   | ResNet18          | Kaggle   | ✔          | Real vs Fake 10k | 98.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-14/notebook.ipynb) |
 
+### 🌸 Project 15: Iris Flower Species Classification
+
+[🔗 Dataset](https://archive.ics.uci.edu/ml/datasets/iris) *(local copy included in `Project-15-Iris/dataset.csv`)*
+
+| Rank | Contributor | Architecture           | Platform | Base Model | Accuracy | Link                                          |
+| ---- | ----------- | ---------------------- | -------- | ---------- | -------- | --------------------------------------------- |
+| 🥇   | Our Model   | RandomForestClassifier | Local    | ✗          | 100%     | [Notebook](Project-15-Iris/project-15-iris-executed.ipynb) |
+
 _More projects coming soon_

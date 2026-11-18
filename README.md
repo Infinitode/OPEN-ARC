@@ -147,6 +147,14 @@ OPEN-ARC is an open-source initiative to advance AI research through collaborati
 | ---- | ----------- | ---------------------- | -------- | ---------- | -------- | ----------------------------------------------- |
 | 🥇   | Our Model   | ResNet18               | Kaggle   | ✔️         | 98.8%    | [Notebook](Project-14/notebook.ipynb)           |
 
+### 🌸 Project 15: Iris Flower Species Classification
+
+[🔗 Dataset](https://archive.ics.uci.edu/ml/datasets/iris) *(local copy included in `Project-15-Iris/dataset.csv`)*
+
+| Rank | Contributor | Architecture           | Platform | Base Model | Accuracy | Link                                          |
+| ---- | ----------- | ---------------------- | -------- | ---------- | -------- | --------------------------------------------- |
+| 🥇   | Our Model   | RandomForestClassifier | Local    | ✗          | 100%     | [Notebook](Project-15-Iris/project-15-iris-executed.ipynb) |
+
 
 ## 🌱 Beginner Projects
 
