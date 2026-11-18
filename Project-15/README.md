@@ -37,5 +37,7 @@ Please stick to our Code of Conduct to avoid bans, reports, and other negative c
 ### Model Usage:
 Models provided by the community must be used with consent from the community and the original developer, and only for non-lucrative purposes. This means the model must be distributed as a free resource, with attribution to the respective owners/collaborators.
 
+A trained `RandomForestClassifier` is included as [`iris_classifier.joblib`](iris_classifier.joblib). Load it with `joblib.load('iris_classifier.joblib')`; pass four measurements in this order: `SepalLengthCm`, `SepalWidthCm`, `PetalLengthCm`, and `PetalWidthCm`. The notebook also trains and saves a fresh model when run.
+
 > [!IMPORTANT]
 > Models and implementations are mainly provided as learning resources, research projects, and experimental tools. **They are not intended for commercial use cases.**
