@@ -168,4 +168,16 @@ Classify human face images into real or fake categories.
 | ---- | ----------- | ----------------- | -------- | ---------- | ---------------- | -------- | -------------------------------------------------------------------------------------- |
 | N    | Our Model   | ResNet18          | Kaggle   | ✔          | Real vs Fake 10k | 98.8%    | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-14/notebook.ipynb) |
 
+---
+
+### Project 15:
+
+Classify iris flowers into three species (setosa, versicolor, virginica) based on sepal and petal measurements.
+
+#### Leaderboard
+
+| Rank | Contributor | Architecture Type      | Platform | Base Model | Dataset      | Accuracy | Link                                                                                   |
+| ---- | ----------- | ---------------------- | -------- | ---------- | ------------ | -------- | -------------------------------------------------------------------------------------- |
+| N    | Our Model   | RandomForestClassifier | Kaggle   | ✗          | Iris Species | 100%     | [Notebook](https://github.com/Infinitode/OPEN-ARC/blob/main/Project-15/notebook.ipynb) |
+
 _More projects coming soon_
